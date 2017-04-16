@@ -40,3 +40,18 @@ As Shevchenko said:
 
 Emojis:
 :poop:, :shit:
+
+Langueages:
+```java
+public int c;
+for(i; i < c; i++) {
+ print(c);
+}
+```
+```r
+f <- function(x) {
+ for i in 1:x {
+  print(i)
+ }
+}
+```
