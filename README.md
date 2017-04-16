@@ -3,14 +3,11 @@ Just an ordinary hello world.
 
 I'm a nonchalant enthusiast. Indifferent and unconcerned about everything except my passions.
 
+Playing with text:
 *Italic text* 
-
 _italic text_
-
 **Bold text**
-
 __bold text__
-
 ~~Crosssed text~~
 
 Headers:
@@ -21,8 +18,8 @@ Headers:
 Lists:
 * Item 1
 * Item 2
- * Item 2a
- * Item 2b
+  * Item 2a
+  * Item 2b
  
 * Item 1
 * Item 2
@@ -31,9 +28,9 @@ Lists:
  
 1. Item 1
 1. Item 2
- 1. Item 2.1
- 1. Item 2.2
- 
+  1. Item 2.1
+  1. Item 2.2
+  
 Image:
 ![Git hub logo](https://assets-cdn.github.com/images/modules/open_graph/github-mark.png)
 
@@ -41,5 +38,5 @@ As Shevchenko said:
 > Як умру,
 > то поховайте
 
-Emojis
-:poop:
+Emojis:
+:poop:, :shit:
